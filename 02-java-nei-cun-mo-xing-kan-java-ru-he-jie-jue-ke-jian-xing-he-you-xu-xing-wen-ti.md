@@ -80,7 +80,7 @@ Happens-Before 规则应该是 Java 内存模型里面最晦涩的内容了，�
 
 我们将规则 3 的传递性应用到我们的例子中，会发生什么呢？可以看下面这幅图：
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (4).png>)
 
 从图中，我们可以看到：
 
